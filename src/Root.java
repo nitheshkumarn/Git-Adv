@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
 	for (int i = 1; i <= a; i++) {
 
-		System.out.println("changes made by prajwal");
+		System.out.println("changes made by nithesh");
 
 	}
 }
