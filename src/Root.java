@@ -1,13 +1,14 @@
 
 public class Root {
-public static void main(String[] args) {
-	
-	int a = 5;
+	public static void main(String[] args) {
 
-	for (int i = 1; i <= a; i++) {
+		int a = 5;
 
-		System.out.println("changes made by nithesh");
+		for (int i = 1; i <= a; i++) {
+			System.out.println("changes made by Prajwal");
+			System.out.println("changes made by nithesh");
 
+		}
 	}
-}
+
 }
